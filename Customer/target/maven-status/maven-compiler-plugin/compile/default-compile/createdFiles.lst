@@ -1,0 +1,10 @@
+com\customer\config\CustomUserDetails.class
+com\customer\config\AuthConfig.class
+com\customer\CustomerApplication.class
+com\customer\dto\AuthRequest.class
+com\customer\entity\Customer.class
+com\customer\service\AuthService.class
+com\customer\repository\UserCredentialRepository.class
+com\customer\controller\AuthController.class
+com\customer\config\CustomUserDetailsService.class
+com\customer\service\JwtService.class
